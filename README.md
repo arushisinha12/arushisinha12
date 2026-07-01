@@ -1,16 +1,25 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**arushisinha12/arushisinha12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# hi, i'm arushi.
 
-Here are some ideas to get you started:
+computer science student @ pes university, bengaluru
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+currently learning, building, and occasionally breaking things.
+
+</div>
+
+---
+
+i'm interested in understanding how software works—from the algorithms behind it to the systems that bring it to life.
+
+this github is where i experiment, learn new technologies, and document that journey one project at a time.
+
+### currently
+
+- learning data structures & algorithms
+- exploring java
+- trying to write cleaner code than i did yesterday
+
+---
+
+> *still figuring things out, one commit at a time.*
