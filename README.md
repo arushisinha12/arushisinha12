@@ -7,7 +7,7 @@ computer science student @ pes university, bengaluru
 currently learning, building, and occasionally breaking things.
 
 </div>
-
+  
 ---
 
 i'm interested in understanding how software works—from the algorithms behind it to the systems that bring it to life.
