@@ -1,7 +1,7 @@
 <div align="center">
 
 # hi, i'm arushi.
-  
+                  
 computer science student @ pes university, bengaluru
 
 currently learning, building, and occasionally breaking things.
